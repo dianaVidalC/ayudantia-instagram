@@ -1,0 +1,41 @@
+
+.navbar-default img{
+  width: 65%;
+}
+.navbar-default h1{
+  font-size:1.7rem;
+  font-weight:600;
+}
+
+.navbar-default .row{
+  display: flex;
+  align-items: center;
+}
+
+.mg-top-0{
+  margin-top: 0;
+}
+
+.negrita{
+  font-weight: 600;
+}
+
+.fotos [class*="col-"]{
+  padding: 1px;
+}
+
+.btn-primary{
+  margin:2rem auto;
+}
+
+ul.nav.nav-pills li{
+  width: 20%;
+  margin:0;
+}
+
+ul.nav.nav-pills li img{
+  width: 60%;
+}
+
+@media (max-width:768px){
+}
